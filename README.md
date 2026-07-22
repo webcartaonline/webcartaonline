@@ -13,8 +13,10 @@ Me interesa entender *por qué* funcionan las cosas, no solo memorizar sintaxis,
 
 - 🌱 Ahora mismo: JavaScript y consumo de APIs con `fetch()`
 - 🎯 Objetivo 2026: publicar mi primer proyecto completo y en producción.
-- 📫 Contacto: [correo](mailto:piambacamilo22@hotmail.com)
-
+- 📫 Contacto:
+   
+  [![Email](https://img.shields.io/badge/Email-0078D4?style=flat&logo=microsoftoutlook&logoColor=white)](mailto:piambacamilo22@hotmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-camilo-piamba-uribe-66b929421/)
+  
 ## Stack
 
 | Uso | tecnologías |
@@ -31,34 +33,3 @@ Me interesa entender *por qué* funcionan las cosas, no solo memorizar sintaxis,
 | Video | ![Bing Video Creator](https://img.shields.io/badge/Bing_Video_Creator-258FFA?style=flat&logo=microsoftbing&logoColor=white) ![Google Flow](https://img.shields.io/badge/Google_Flow-4285F4?style=flat&logo=google&logoColor=white) |
 | Voz | ![ElevenLabs](https://img.shields.io/badge/ElevenLabs-000000?style=flat&logo=elevenlabs&logoColor=white) |
 | Música | ![Suno](https://img.shields.io/badge/Suno-000000?style=flat&logo=suno&logoColor=white) |
-
-## Proyectos
-
-
-
-## Dónde encontrarme
-
-
-
-
-
-
-<!--Stack
-Tecnologias que dominas, no aspiraciones
--->
-
-<!--Ahora mismo
-que estas aprendiendo o contruyendo
--->
-
-<!--Proyectos
-de 3 a 5 repos, una linea cada uno
--->
-
-<!--Estadisticas
-Tarjetas dinamicas (Servicios de terceros)
--->
-
-<!--Contacto
-Linkedin, correo, portafolio
--->
