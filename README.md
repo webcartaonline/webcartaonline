@@ -11,11 +11,11 @@
 
 Me interesa entender *por qué* funcionan las cosas, no solo memorizar sintaxis, si no entenderla y dominarla, para ello me dedico día a día a investigar y hacer pruebas.
 
-- 🌱 Ahora mismo: JavaScript y consumo de APIs con `fetch()`
-- 🎯 Objetivo 2026: publicar mi primer proyecto completo y en producción.
+- 🌱 Ahora mismo: Desarrollando lo aprendido y aprendiendo más aún.
+- 🎯 Objetivo 2027: Desarrollar por completo mi proyecto personal.
 - 📫 Contacto:
-   
-  [![Email](https://img.shields.io/badge/Email-0078D4?style=flat&logo=microsoftoutlook&logoColor=white)](mailto:piambacamilo22@hotmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-camilo-piamba-uribe-66b929421/)
+
+   [![Email](https://img.shields.io/badge/Email-0078D4?style=flat&logo=microsoftoutlook&logoColor=white)](mailto:piambacamilo22@hotmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-camilo-piamba-uribe-66b929421/)
   
 ## Stack
 
